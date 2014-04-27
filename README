@@ -16,3 +16,5 @@ EvoGallery is a photo gallery addon for MODx Evolution (1.x).
 2. Make sure the assets/galleries/ folder has write permissions
 3. Run the installer (http://yoursite.com/install/) and follow on-screen instructions.
 
+/* Docs */
+Some docs could be found here: http://rtfm.modx.com/extras/evo/evogallery
